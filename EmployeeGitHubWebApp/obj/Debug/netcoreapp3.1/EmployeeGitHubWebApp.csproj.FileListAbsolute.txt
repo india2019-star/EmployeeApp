@@ -148,3 +148,8 @@ C:\Users\Raj\source\repos\EmployeeGitHubWebApp\EmployeeGitHubWebApp\obj\Debug\ne
 C:\Users\Raj\source\repos\EmployeeGitHubWebApp\EmployeeGitHubWebApp\obj\Debug\netcoreapp3.1\EmployeeGitHubWebApp.dll
 C:\Users\Raj\source\repos\EmployeeGitHubWebApp\EmployeeGitHubWebApp\obj\Debug\netcoreapp3.1\EmployeeGitHubWebApp.pdb
 C:\Users\Raj\source\repos\EmployeeGitHubWebApp\EmployeeGitHubWebApp\obj\Debug\netcoreapp3.1\EmployeeGitHubWebApp.genruntimeconfig.cache
+C:\Users\Raj\source\repos\EmployeeGitHubWebApp\EmployeeGitHubWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Create.cshtml.g.cs
+C:\Users\Raj\source\repos\EmployeeGitHubWebApp\EmployeeGitHubWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Delete.cshtml.g.cs
+C:\Users\Raj\source\repos\EmployeeGitHubWebApp\EmployeeGitHubWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Details.cshtml.g.cs
+C:\Users\Raj\source\repos\EmployeeGitHubWebApp\EmployeeGitHubWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Edit.cshtml.g.cs
+C:\Users\Raj\source\repos\EmployeeGitHubWebApp\EmployeeGitHubWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Index.cshtml.g.cs
